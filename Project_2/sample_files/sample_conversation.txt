@@ -1,0 +1,10 @@
+User: alice - Message: Hi there! How can I reset my password?
+Bot: support_bot - Message: Hi Alice! To reset your password, you can click on the "Forgot Password" link on the login page and follow the instructions.
+User: alice - Message: I tried that, but I didn't receive the reset email.
+Bot: support_bot - Message: I'm sorry to hear that. Can you please check your spam folder? Sometimes the email might end up there.
+User: alice - Message: I checked, but it's not there either.
+Bot: support_bot - Message: Could you provide me with your email address so I can check if there's an issue with your account?
+User: alice - Message: Sure, it's alice@example.com.
+Bot: support_bot - Message: Thank you, Alice. I've checked our system, and it seems there was a typo in the email address on your account. I've corrected it. Please try resetting your password again now.
+User: alice - Message: It worked! Thank you so much for your help!
+support_bot - Message: You're welcome! If you need any further assistance, feel free to ask. Have a great day!

@@ -1,0 +1,16 @@
+2024-07-06 10:00:00,001 - INFO - User login attempt - username: johndoe
+2024-07-06 10:00:01,123 - ERROR - Login failed - username: johndoe - reason: incorrect password
+2024-07-06 10:01:00,456 - INFO - User login attempt - username: janedoe
+2024-07-06 10:01:01,789 - INFO - Login successful - username: janedoe
+2024-07-06 10:15:22,345 - INFO - User logout - username: janedoe
+2024-07-06 10:20:05,678 - INFO - User login attempt - username: johndoe
+2024-07-06 10:20:06,890 - INFO - Login successful - username: johndoe
+2024-07-06 10:45:00,123 - INFO - File upload attempt - username: johndoe - filename: report.pdf
+2024-07-06 10:45:01,456 - INFO - File upload successful - username: johndoe - filename: report.pdf
+2024-07-06 11:00:00,789 - INFO - User login attempt - username: maryjane
+2024-07-06 11:00:01,012 - ERROR - Login failed - username: maryjane - reason: account locked
+2024-07-06 11:05:22,345 - INFO - Password reset request - username: maryjane
+2024-07-06 11:06:00,678 - INFO - Password reset successful - username: maryjane
+2024-07-06 11:10:00,123 - INFO - User login attempt - username: maryjane
+2024-07-06 11:10:01,456 - INFO - Login successful - username: maryjane
+2024-07-06 11:15:00,789 - INFO - User logout - username: johndoe
